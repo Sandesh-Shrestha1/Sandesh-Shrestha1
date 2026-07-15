@@ -29,10 +29,10 @@
         <h2>Contact Me</h2>
         <div class="imgs">
             <a href="https://github.com/Sandesh-Shrestha1">
-                <img src="/img/github-dark.svg">
+                <img src="/img/github-dark.svg" target="_blank">
             </a>
             <a href="https://www.instagram.com/sndsh___stha/">
-                <img src="img/instagram-dark.svg">
+                <img src="img/instagram-dark.svg" target="_blank">
             </a>
             <h2>Languages</h2>
             <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
