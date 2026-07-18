@@ -7,7 +7,9 @@
 <body>
     <div class="heading">
         <p>GIT HUB Profile</p>
-        <video src="img/ak47_black-ascii.webm"></video>
+        <video autoplay muted loop playsinline controls>
+            <source src="img/ak47_black-ascii.mp4" type="video/webm">
+    </video>
     </div>
     <div class="main">🚀 Currently Learning
         <h2>Hello World, I'm Sandesh</h2>
